@@ -1,0 +1,50 @@
+{
+  "Vacation_Photo.jpg": {
+    "name": "Vacation_Photo.jpg",
+    "extension": "JPG",
+    "size": 2837,
+    "sha256": "084f3bfa13a4360cfe92fa365ceaa15538c5a29291a3ea5449028eece11edb28"
+  },
+  "Photo_001.png": {
+    "name": "Photo_001.png",
+    "extension": "PNG",
+    "size": 294,
+    "sha256": "868600c45af4c3ea1a0263df32a4004433363f385ad49cc6d2acfd988fe3c334"
+  },
+  "Project_Report.pdf": {
+    "name": "Project_Report.pdf",
+    "extension": "PDF",
+    "size": 392,
+    "sha256": "8ce4a803cc96d14cd13b0e1bf9e5d906718e213026f8f1edf24b7479a2018a92"
+  },
+  "Document.docx": {
+    "name": "Document.docx",
+    "extension": "DOCX",
+    "size": 519,
+    "sha256": "bc0493112c0d4b3dcbb2c4628d77a282cd6c684df7b8feee595d8e013a159f5e"
+  },
+  "Archive.zip": {
+    "name": "Archive.zip",
+    "extension": "ZIP",
+    "size": 322,
+    "sha256": "ecb77a115a481ba49158c76543471e1aab57cd42adf74e795ca9a261f3d619fe"
+  },
+  "Family_Video.mp4": {
+    "name": "Family_Video.mp4",
+    "extension": "MP4",
+    "size": 332,
+    "sha256": "0736ad8c788787226032155db2d32a148879107620cc67360d8db2e202e50c80"
+  },
+  "Voice_Note.wav": {
+    "name": "Voice_Note.wav",
+    "extension": "WAV",
+    "size": 300,
+    "sha256": "b53c10497ece1e88e399a790d621eefe5e85f28477821f42517fab06217fd257"
+  },
+  "Old_File.txt": {
+    "name": "Old_File.txt",
+    "extension": "TXT",
+    "size": 131,
+    "sha256": "73314dc55b3cfea39bb5f216fe72c22e2df69454a68a6993e8bfe8f7744e3917"
+  }
+}
