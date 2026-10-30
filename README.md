@@ -24,13 +24,6 @@
 ### Desktop Application Workspace
 ![RecoverX Desktop Interface](docs/screenshots/recoverx_desktop_ui.png)
 
-### Developer & Author Verification Card
-<p align="center">
-  <img src="docs/screenshots/recoverx_author_popup.png" alt="Muhammad Ishaq — RecoverX Author" width="420">
-</p>
-
----
-
 ## 🚀 Key Features
 
 ### 1. Multi-File-System Metadata Parsing
